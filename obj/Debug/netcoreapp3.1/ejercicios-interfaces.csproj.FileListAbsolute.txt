@@ -1,0 +1,11 @@
+C:\Curso\ejercicios-interfaces\bin\Debug\netcoreapp3.1\ejercicios-interfaces.exe
+C:\Curso\ejercicios-interfaces\bin\Debug\netcoreapp3.1\ejercicios-interfaces.deps.json
+C:\Curso\ejercicios-interfaces\bin\Debug\netcoreapp3.1\ejercicios-interfaces.runtimeconfig.json
+C:\Curso\ejercicios-interfaces\bin\Debug\netcoreapp3.1\ejercicios-interfaces.runtimeconfig.dev.json
+C:\Curso\ejercicios-interfaces\bin\Debug\netcoreapp3.1\ejercicios-interfaces.dll
+C:\Curso\ejercicios-interfaces\bin\Debug\netcoreapp3.1\ejercicios-interfaces.pdb
+C:\Curso\ejercicios-interfaces\obj\Debug\netcoreapp3.1\ejercicios-interfaces.csprojAssemblyReference.cache
+C:\Curso\ejercicios-interfaces\obj\Debug\netcoreapp3.1\ejercicios-interfaces.AssemblyInfoInputs.cache
+C:\Curso\ejercicios-interfaces\obj\Debug\netcoreapp3.1\ejercicios-interfaces.AssemblyInfo.cs
+C:\Curso\ejercicios-interfaces\obj\Debug\netcoreapp3.1\ejercicios-interfaces.dll
+C:\Curso\ejercicios-interfaces\obj\Debug\netcoreapp3.1\ejercicios-interfaces.pdb
